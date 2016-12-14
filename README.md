@@ -46,3 +46,4 @@
 
 
 8.第八步: 将项目的根目录位置下,输入命令 $ git init 结束 $ git add . 结束 $ git commit -m "描述"，最后，$ git push -u origin master 结束。
+9.git status 结束，这个命名主要用来查询是否创建成功。
